@@ -21,5 +21,5 @@ Install the required dependencies using pip install -r requirements.txt.<br>
 Obtain API keys and credentials for the services used (e.g., OpenAI API, Wikipedia API).<br>
 Configure environment variables with the necessary credentials.<br>
 - **Initialization:**<br>
-Run the app.py file to initialize the ClimateBot server.<br>
+Run the 'python app.py' file to initialize the ClimateBot server.<br>
 Access the web interface to interact with ClimateBot and submit climate-related queries.<br>
